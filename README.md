@@ -87,7 +87,7 @@ This project was made using the follow technologies:
 $ npm install or yarn install
 
 # Run Aplication
-$ yarn start
+$ npm start or yarn start
 ```
 
 Go to http://localhost:3000/ to see the result.
